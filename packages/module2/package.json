@@ -11,5 +11,6 @@
   "dependencies": {
     "cross-env": "^7.0.0",
     "package1": "^0.0.4"
-  }
+  },
+  "gitHead": "78d48e4d3d55c819123010a9cc4f5c43ce3ded35"
 }
