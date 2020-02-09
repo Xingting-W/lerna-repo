@@ -1,6 +1,6 @@
 {
   "name": "package2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "cross-env": "^7.0.0",
-    "package1": "^0.0.3"
+    "package1": "^0.0.4"
   }
 }
