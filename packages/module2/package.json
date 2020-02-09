@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "cross-env": "^7.0.0",
-    "module1": "^0.0.2"
+    "package1": "^0.0.3"
   }
 }
